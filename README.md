@@ -14,7 +14,11 @@ An Android application that helps users find and navigate to locations with bett
 
 ## Screenshots
 
-*[Screenshots to be added]*
+<img src="Img 1.png" alt="Home Screen" width="300">
+<img src="Img 2.png" alt="Signal Map" width="300">
+<img src="Img 3.png" alt="Home Screen" width="300">
+<img src="Img 4.png" alt="Signal Map" width="300">
+<img src="Img 5.png" alt="Home Screen" width="300">
 
 ## Requirements
 
