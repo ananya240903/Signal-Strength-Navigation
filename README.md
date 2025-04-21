@@ -27,16 +27,6 @@ An Android application that helps users find and navigate to locations with bett
 - Location permissions
 - Phone state permissions
 
-## Installation
-
-1. Clone this repository
-2. Add your Google Maps API key in your `AndroidManifest.xml`:
-   ```xml
-   <meta-data
-       android:name="com.google.android.geo.API_KEY"
-       android:value="YOUR_API_KEY_HERE" />
-   ```
-3. Build and run the application on your device
 
 ## Usage
 
@@ -96,14 +86,6 @@ The app communicates with a backend service hosted at `https://signal-chatbot-ap
 The app requires the following permissions:
 - `ACCESS_FINE_LOCATION`: To get your precise location
 - `READ_PHONE_STATE`: To access mobile signal information
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Insert your license here]
 
 ## Acknowledgments
 
